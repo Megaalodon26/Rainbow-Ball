@@ -1,2 +1,2 @@
-# Bing-Bong
+# RainbowBall
 Bouncing Ball Project
